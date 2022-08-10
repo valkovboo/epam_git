@@ -7,3 +7,5 @@ line 5
 line 6
 
 branch feature line
+
+line 2
